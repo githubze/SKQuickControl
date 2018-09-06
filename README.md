@@ -1,2 +1,2 @@
-# SKQuickControl
-快速创建视图
+# Use CocoaPods
+ pod 'SKQuickControl', '~> 1.0.0'
